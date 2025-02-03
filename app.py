@@ -5,7 +5,7 @@ from PIL import Image
 from io import BytesIO
 
 def uploadAndConvert():
-    st.title("🖼️ Konversi Gambar ke PDF Ala Tasya")
+    st.title("🖼️ Konversi Gambar ke PDF Gratis")
     st.write("Unggah gambar dan konversikan ke PDF dalam satu klik!")
     
     uploadedFiles = st.file_uploader("Pilih gambar", type=["png", "jpg", "jpeg"], accept_multiple_files=True)
