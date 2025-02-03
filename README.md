@@ -1,4 +1,4 @@
-Proyek ini dibuat menggunakan streamlit untuk UI dan flash untuk backend.
+Proyek ini dibuat menggunakan streamlit untuk UI dan flask untuk backend.
 
 Awalnya proyek ini tidak terpikirkan oleh saya. Namun saya mengalami masalah ketika ingin membuat sebuah file pdf yang berisi banyak gambar (>100 gambar). 
 Jika menggunakan tools yang ada di google, kemungkinan kita harus mengubah akun menjadi premium(berbayar). 
